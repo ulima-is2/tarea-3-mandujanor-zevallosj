@@ -19,3 +19,6 @@ Esta desarrollada en el archivo **Pregunta 2.pdf**.
 ***
 
 ## Pregunta 3:
+Esta desarrollada en el archivo **Pregunta 3.mdj** y como imagen en **Diagrama de Despliegue.png**.
+
+Las tecnologías y componentes empleados se encuentran en **Anexo Pregunta 3.pdf**.
